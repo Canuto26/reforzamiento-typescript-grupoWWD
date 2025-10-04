@@ -1,4 +1,6 @@
+import './04-Arreglos'
 import './style.css'
+
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
