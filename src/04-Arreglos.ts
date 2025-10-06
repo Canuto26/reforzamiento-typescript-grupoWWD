@@ -37,3 +37,5 @@ for (let i = 0; i < calificaciones.length; i++) {
 
 console.log(`El promedio es: ${suma / calificaciones.length}`)
 alert(`El promedio es: ${suma / calificaciones.length}`);
+
+export default calificaciones;
