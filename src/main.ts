@@ -1,4 +1,5 @@
 import './04-Arreglos'
+import './07-Desestructuracion-arreglos'
 import './style.css'
 
 
