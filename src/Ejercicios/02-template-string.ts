@@ -7,5 +7,5 @@ const semestre: number = 9;
 // usando el formato `${variable}` y se escriben con comillas invertidas (`).
 const mensaje: string = `Hola, mi nombre es ${nombre}, estudio ${carrera} y actualmente estoy en el semestre ${semestre}.`;
 
-// Mostramos el mensaje en la consola. hola
+// Mostramos el mensaje en la consola.
 console.log(mensaje);
