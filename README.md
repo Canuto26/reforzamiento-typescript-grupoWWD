@@ -25,4 +25,15 @@ Nota: se hace cambio a entero en el contador y se agrega 0 como valor por defect
 - For para promediar las calificaciones del arreglo
 
 - Mostrar el promedio en consola y en alerta
+
+## Ejercicio 7
+
+- se importa la funcion de calificaciones de arreglos
+
+- se realiza la desestructuración de calificaciones con el "primero y segundo"
+
+Nota: Se da el valor a segundo por defecto 0 para evitar valores nulos
+
+- se imprime en consola el primero 1 segundo
+
   # Instrucciones de ejecucion de codigo
